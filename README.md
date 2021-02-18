@@ -1,5 +1,6 @@
 # todolist
 
+这个是学习Vue3.0的todolist代办事项的案例，通过学习掌握composition API的使用
 ## Project setup
 ```
 npm install
